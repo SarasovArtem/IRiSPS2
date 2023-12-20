@@ -131,9 +131,11 @@
     <ClCompile Include="Figures.cpp" />
     <ClCompile Include="IRiSPS2.cpp" />
     <ClCompile Include="MyException.cpp" />
+    <ClCompile Include="Circle.cpp" />
     <ClCompile Include="Triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Circle.h" />
     <ClInclude Include="Figure.h" />
     <ClInclude Include="Figures.h" />
     <ClInclude Include="MyException.h" />
