@@ -127,7 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Figure.cpp" />
+    <ClCompile Include="Figures.cpp" />
     <ClCompile Include="IRiSPS2.cpp" />
+    <ClCompile Include="MyException.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Figure.h" />
+    <ClInclude Include="Figures.h" />
+    <ClInclude Include="MyException.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
