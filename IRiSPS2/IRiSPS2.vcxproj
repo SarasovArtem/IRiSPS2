@@ -132,12 +132,14 @@
     <ClCompile Include="IRiSPS2.cpp" />
     <ClCompile Include="MyException.cpp" />
     <ClCompile Include="Circle.cpp" />
+    <ClCompile Include="Complexfigure.cpp" />
     <ClCompile Include="Triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Circle.h" />
     <ClInclude Include="Figure.h" />
     <ClInclude Include="Figures.h" />
+    <ClInclude Include="Complexfigure.h" />
     <ClInclude Include="MyException.h" />
     <ClInclude Include="Triangle.h" />
   </ItemGroup>
